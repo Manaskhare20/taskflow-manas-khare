@@ -130,7 +130,7 @@ Docker installed
 
 Steps
 
-git clone https://github.com/<your-username>/taskflow-manas-khare
+git clone https://github.com/Manaskhare20/taskflow-manas-khare
 
 cd taskflow-manas-khare
 
